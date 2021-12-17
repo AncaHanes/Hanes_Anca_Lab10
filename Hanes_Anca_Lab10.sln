@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanes_Anca_Lab10.Android", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanes_Anca_Lab10.iOS", "Hanes_Anca_Lab10.iOS\Hanes_Anca_Lab10.iOS.csproj", "{F7E8C738-FAC0-438A-8356-98EE13E746FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hanes_Anca_Lab10", "Hanes_Anca_Lab10\Hanes_Anca_Lab10.csproj", "{1CCA2343-FAA0-49FA-BA97-B42A5D6E47BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hanes_Anca_Lab10", "Hanes_Anca_Lab10\Hanes_Anca_Lab10.csproj", "{1CCA2343-FAA0-49FA-BA97-B42A5D6E47BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CC5EC77-9C52-4600-8765-89459866FE83}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
